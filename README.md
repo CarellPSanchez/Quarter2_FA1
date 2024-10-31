@@ -1,1 +1,1 @@
-This is an asynchronous activity on LG 7.1. The topics in this activity are; HTML basics, Best practices for web design and layout, intro into cascading style sheets, and advanced css text links. The link to this repository is https://github.com/CarellPSanchez/Quarter2_FA1/tree/main/FA1.
+This is an asynchronous activity on LG 6.2. The topics in this activity are; HTML basics, Best practices for web design and layout, intro into cascading style sheets. The link to this repository is https://github.com/CarellPSanchez/Quarter2_FA1/tree/main/FA1.
